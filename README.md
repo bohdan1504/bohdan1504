@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bogdan
-- 👀 I’m interested in landing my first job as a Java developer
+- 👋 Hi, I’m Bogdan. I've been creating landing pages on HTML/CSS and e-shops on WordPress for my freelance clients from 2016-2020
+- 👀 I’m interested in transitioning to SWE and becoming a Java developer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking forward to develop my favourite childhood game - Snake
 - 📫 You can read me via email or LinkedIn
