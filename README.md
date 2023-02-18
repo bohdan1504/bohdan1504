@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bogdan. I've been creating landing pages on HTML/CSS and e-shops on WordPress for my freelance clients from 2016-2020
+- 👋 Hi, I’m Bogdan. I've been creating landing pages on HTML/CSS/JS, as well as blogs, corporate websites and ecommerce-shops on WordPress for my freelance clients since 2016
 - 👀 I’m interested in transitioning to SWE and becoming a Java developer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking forward to develop my favourite childhood game - Snake [🥳 Done: 30.07.2022]
