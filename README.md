@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bogdan. I've been creating landing pages on HTML/CSS/JS, as well as blogs, corporate websites and ecommerce-shops on WordPress for my freelance clients since 2016
-- 👀 I’m interested in transitioning to SWE and becoming a Java developer
-- 🌱 I’m currently learning Java
+- 👀 I have 3+ years of experience working at fintechs (Wise, Paysend) as a Customer Support Specialist, Operations Specialist and Client Operations Specialist
+- 🌱 I’m currently learning Java as a passion project
 - 💞️ I’m looking forward to develop my favourite childhood game - Snake [🥳 Done: 30.07.2022]
 - 📫 You can reach me via email or LinkedIn
 
